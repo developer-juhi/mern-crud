@@ -1,0 +1,7 @@
+{
+    "category_get": "category/get",
+    "category_change_status": "category/change-status",
+    "category_delete": "category/delete",
+    "category_store": "category/store",
+    "category_edit_get": "category/edit-get"
+}
